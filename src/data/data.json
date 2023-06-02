@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "name": "Widget 1",
+      "brand": "Brand A",
+      "price": "$29.99"
+    },
+    {
+      "name": "Gizmo 2",
+      "brand": "Brand B",
+      "price": "$49.99"
+    },
+    {
+      "name": "Thingamajig 3",
+      "brand": "Brand C",
+      "price": "$19.99"
+    },
+    {
+      "name": "Doodad 4",
+      "brand": "Brand D",
+      "price": "$39.99"
+    },
+    {
+      "name": "Whatchamacallit 5",
+      "brand": "Brand E",
+      "price": "$59.99"
+    },
+    {
+      "name": "Doohickey 6",
+      "brand": "Brand F",
+      "price": "$79.99"
+    },
+    {
+      "name": "Thingummy 7",
+      "brand": "Brand G",
+      "price": "$69.99"
+    },
+    {
+      "name": "Whatsit 8",
+      "brand": "Brand H",
+      "price": "$24.99"
+    },
+    {
+      "name": "Gadget 9",
+      "brand": "Brand I",
+      "price": "$44.99"
+    },
+    {
+      "name": "Contraption 10",
+      "brand": "Brand J",
+      "price": "$34.99"
+    },
+    {
+      "name": "Gizmo 11",
+      "brand": "Brand K",
+      "price": "$54.99"
+    },
+    {
+      "name": "Thingamajig 12",
+      "brand": "Brand L",
+      "price": "$14.99"
+    },
+    {
+      "name": "Doodad 13",
+      "brand": "Brand M",
+      "price": "$49.99"
+    }
+  ]
+}
