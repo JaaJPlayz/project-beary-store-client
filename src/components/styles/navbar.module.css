@@ -1,7 +1,11 @@
 .navbar {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
   color: white;
   background-color: #393053;
+  min-height: 86px;
+  border-radius: 0px 0px 30px 30px;
 }
 
 .siteLogo {
@@ -21,4 +25,46 @@
 
 .siteLogo h1 {
   margin-right: 20px;
+}
+
+.routesDiv {
+  display: flex;
+
+  align-items: center;
+  background-color: rgb(99, 89, 133);
+  min-height: 50px;
+  margin-right: 20px;
+  border-radius: 10px;
+  border: 3px solid #393053;
+}
+
+.routesDiv :first-child {
+  margin-left: 20px;
+}
+
+.routesDiv * {
+  margin-right: 20px;
+}
+
+.routesDiv a {
+  font-size: 23px;
+  text-decoration: none;
+  color: white;
+  width: auto;
+  height: auto;
+}
+
+@keyframes bounce {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-3px);
+  }
+}
+
+.routesDiv a:hover {
+  animation: bounce 0.4s linear;
+  animation-iteration-count: 1;
 }
