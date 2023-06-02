@@ -1,1 +1,0 @@
-# project-beary-store-client
